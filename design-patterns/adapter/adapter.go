@@ -20,7 +20,7 @@ func (adapter Adapter) process() {
 }
 
 func (adaptee Adaptee) convert() {
-	fmt.Println("Adapteee convert method")
+	fmt.Println("Adaptee convert method")
 }
 
 func main() {
